@@ -1,3 +1,5 @@
 Initial commit
 Things to buy
   - Flour
+  - Pepperoni
+  - Mushrooms
